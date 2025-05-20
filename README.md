@@ -1,3 +1,3 @@
-#Criação de currílo com HTMl
+#Criação de currículo com HTMl
 
 Ainda sem links
